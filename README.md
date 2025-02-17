@@ -1,5 +1,4 @@
 # Use-case-diagram_Gov-service-app
-
 The UML Use Case diagram of the government service application. 
 
 ## Short description of the app
