@@ -1,7 +1,7 @@
 # Use-case-diagram_Gov-service-app
 The UML Use Case diagram of the government service application. 
 
-## Short description of the app
+## Short description of the diagram
 
 Digital Portal of the Ministry of Happiness. Citizens can apply for state support and authenticate using E-signature or BankID. Once logged into the system, users can submit applications for state support, track their application status, and receive automatic status notifications.
 
